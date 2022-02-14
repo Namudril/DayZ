@@ -1,5 +1,5 @@
 # DayZ
-Help the survivors in DayZ community
+Helping the survivors in DayZ community
 Here are some useful scripts to ease your everyday experience with DayZ
 
 kill-dayz.bat
